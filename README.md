@@ -10,4 +10,4 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nyxo-PG&show_icons=true&locale=en" alt="nyxo-PG" /></p>
+<p><img align="center" src="https://avatars.githubusercontent.com/u/283859838?u=40c9f46c139f09e46ce0a6ba6b71bd93615be2aa&v=4&size=64" alt="nyxo-PG" /></p>
